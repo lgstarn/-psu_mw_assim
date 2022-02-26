@@ -1,0 +1,5122 @@
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+                  R2019b (9.7.0.1190202) 64-bit (glnxa64)
+                              August 21, 2019
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 
+options = 
+
+  struct with fields:
+
+         model_vars: {1x10 cell}
+             sensor: 'gpm_gmi'
+           obs_vars: {1x13 cell}
+       obs_channels: [1 2 3 4 5 6 7 8 9 10 11 12 13]
+        model_files: '/work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/model/MW_THO/60_members/*'
+    obs_directories: {'/work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/'}
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_001_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       69215
+
+xGMM 1  2  3  4  5
+Computed 12248/12248 points for region 1
+Computed 25616/25616 points for region 2
+Computed 3889/3889 points for region 3
+Computed 21189/21189 points for region 4
+Computed 6273/6273 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_002_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       66786
+
+xGMM 1  2  3  4  5
+Computed 12531/24779 points for region 1
+Computed 23408/49024 points for region 2
+Computed 6579/10468 points for region 3
+Computed 13217/34406 points for region 4
+Computed 11051/17324 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_003_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       63822
+
+xGMM 1  2  3  4  5
+Computed 9013/33792 points for region 1
+Computed 26879/75903 points for region 2
+Computed 2576/13044 points for region 3
+Computed 17874/52280 points for region 4
+Computed 7480/24804 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_004_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       63822
+
+xGMM 1  2  3  4  5
+Computed 10073/43865 points for region 1
+Computed 26610/102513 points for region 2
+Computed 3696/16740 points for region 3
+Computed 16734/69014 points for region 4
+Computed 6709/31513 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_005_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       67685
+
+xGMM 1  2  3  4  5
+Computed 10677/54542 points for region 1
+Computed 25666/128179 points for region 2
+Computed 8315/25055 points for region 3
+Computed 17125/86139 points for region 4
+Computed 5902/37415 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_006_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       78275
+
+xGMM 1  2  3  4  5
+Computed 16211/70753 points for region 1
+Computed 22438/150617 points for region 2
+Computed 6285/31340 points for region 3
+Computed 26757/112896 points for region 4
+Computed 6584/43999 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_007_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       66786
+
+xGMM 1  2  3  4  5
+Computed 12781/83534 points for region 1
+Computed 25468/176085 points for region 2
+Computed 4900/36240 points for region 3
+Computed 15474/128370 points for region 4
+Computed 8163/52162 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_008_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       69215
+
+xGMM 1  2  3  4  5
+Computed 9233/92767 points for region 1
+Computed 24830/200915 points for region 2
+Computed 4954/41194 points for region 3
+Computed 23865/152235 points for region 4
+Computed 6333/58495 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_009_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       80942
+
+xGMM 1  2  3  4  5
+Computed 18795/111562 points for region 1
+Computed 17255/218170 points for region 2
+Computed 6147/47341 points for region 3
+Computed 31237/183472 points for region 4
+Computed 7508/66003 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_010_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       69215
+
+xGMM 1  2  3  4  5
+Computed 11926/123488 points for region 1
+Computed 27178/245348 points for region 2
+Computed 4138/51479 points for region 3
+Computed 20242/203714 points for region 4
+Computed 5731/71734 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_011_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       64172
+
+xGMM 1  2  3  4  5
+Computed 8725/132213 points for region 1
+Computed 31721/277069 points for region 2
+Computed 3232/54711 points for region 3
+Computed 15269/218983 points for region 4
+Computed 5225/76959 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_012_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       82881
+
+xGMM 1  2  3  4  5
+Computed 13147/145360 points for region 1
+Computed 19920/296989 points for region 2
+Computed 7171/61882 points for region 3
+Computed 33908/252891 points for region 4
+Computed 8735/85694 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_013_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       62499
+
+xGMM 1  2  3  4  5
+Computed 4714/150074 points for region 1
+Computed 31654/328643 points for region 2
+Computed 4611/66493 points for region 3
+Computed 13077/265968 points for region 4
+Computed 8443/94137 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_014_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       64172
+
+xGMM 1  2  3  4  5
+Computed 6865/156939 points for region 1
+Computed 36760/365403 points for region 2
+Computed 1486/67979 points for region 3
+Computed 15391/281359 points for region 4
+Computed 3670/97807 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_015_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       76748
+
+xGMM 1  2  3  4  5
+Computed 9696/166635 points for region 1
+Computed 33109/398512 points for region 2
+Computed 6077/74056 points for region 3
+Computed 17613/298972 points for region 4
+Computed 10253/108060 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_016_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       52612
+
+xGMM 1  2  3  4  5
+Computed 14927/181562 points for region 1
+Computed 11032/409544 points for region 2
+Computed 10036/84092 points for region 3
+Computed 12441/311413 points for region 4
+Computed 4176/112236 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_017_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       66697
+
+xGMM 1  2  3  4  5
+Computed 9690/191252 points for region 1
+Computed 27390/436934 points for region 2
+Computed 5849/89941 points for region 3
+Computed 14534/325947 points for region 4
+Computed 9234/121470 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_018_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       78275
+
+xGMM 1  2  3  4  5
+Computed 10837/202089 points for region 1
+Computed 23329/460263 points for region 2
+Computed 6216/96157 points for region 3
+Computed 31751/357698 points for region 4
+Computed 6142/127612 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_019_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       66697
+
+xGMM 1  2  3  4  5
+Computed 6163/208252 points for region 1
+Computed 30423/490686 points for region 2
+Computed 3478/99635 points for region 3
+Computed 18047/375745 points for region 4
+Computed 8586/136198 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_020_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       80942
+
+xGMM 1  2  3  4  5
+Computed 21020/229272 points for region 1
+Computed 21839/512525 points for region 2
+Computed 4853/104488 points for region 3
+Computed 27405/403150 points for region 4
+Computed 5825/142023 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_021_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       62499
+
+xGMM 1  2  3  4  5
+Computed 12361/241633 points for region 1
+Computed 28660/541185 points for region 2
+Computed 4175/108663 points for region 3
+Computed 12080/415230 points for region 4
+Computed 5223/147246 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_022_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       66697
+
+xGMM 1  2  3  4  5
+Computed 11810/253443 points for region 1
+Computed 24588/565773 points for region 2
+Computed 6394/115057 points for region 3
+Computed 14453/429683 points for region 4
+Computed 9452/156698 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_023_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       66697
+
+xGMM 1  2  3  4  5
+Computed 9962/263405 points for region 1
+Computed 24674/590447 points for region 2
+Computed 6912/121969 points for region 3
+Computed 13057/442740 points for region 4
+Computed 12092/168790 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_024_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       67685
+
+xGMM 1  2  3  4  5
+Computed 11479/274884 points for region 1
+Computed 22045/612492 points for region 2
+Computed 8788/130757 points for region 3
+Computed 19141/461881 points for region 4
+Computed 6232/175022 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_025_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       82881
+
+xGMM 1  2  3  4  5
+Computed 17280/292164 points for region 1
+Computed 20224/632716 points for region 2
+Computed 7975/138732 points for region 3
+Computed 32429/494310 points for region 4
+Computed 4973/179995 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_026_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       66786
+
+xGMM 1  2  3  4  5
+Computed 11079/303243 points for region 1
+Computed 23694/656410 points for region 2
+Computed 5333/144065 points for region 3
+Computed 16062/510372 points for region 4
+Computed 10618/190613 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_027_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       62499
+
+xGMM 1  2  3  4  5
+Computed 5423/308666 points for region 1
+Computed 31820/688230 points for region 2
+Computed 2117/146182 points for region 3
+Computed 19343/529715 points for region 4
+Computed 3796/194409 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_028_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       76748
+
+xGMM 1  2  3  4  5
+Computed 9343/318009 points for region 1
+Computed 42799/731029 points for region 2
+Computed 4361/150543 points for region 3
+Computed 12349/542064 points for region 4
+Computed 7896/202305 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_029_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       62499
+
+xGMM 1  2  3  4  5
+Computed 10021/328030 points for region 1
+Computed 29974/761003 points for region 2
+Computed 5174/155717 points for region 3
+Computed 11484/553548 points for region 4
+Computed 5846/208151 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_030_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       67685
+
+xGMM 1  2  3  4  5
+Computed 14481/342511 points for region 1
+Computed 20924/781927 points for region 2
+Computed 9649/165366 points for region 3
+Computed 18352/571900 points for region 4
+Computed 4279/212430 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_031_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       76748
+
+xGMM 1  2  3  4  5
+Computed 11202/353713 points for region 1
+Computed 34427/816354 points for region 2
+Computed 5603/170969 points for region 3
+Computed 15189/587089 points for region 4
+Computed 10327/222757 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_032_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       80942
+
+xGMM 1  2  3  4  5
+Computed 15404/369117 points for region 1
+Computed 19717/836071 points for region 2
+Computed 7230/178199 points for region 3
+Computed 30891/617980 points for region 4
+Computed 7700/230457 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_033_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       82881
+
+xGMM 1  2  3  4  5
+Computed 14204/383321 points for region 1
+Computed 20541/856612 points for region 2
+Computed 6219/184418 points for region 3
+Computed 34725/652705 points for region 4
+Computed 7192/237649 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_034_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       66697
+
+xGMM 1  2  3  4  5
+Computed 8066/391387 points for region 1
+Computed 27606/884218 points for region 2
+Computed 5570/189988 points for region 3
+Computed 13642/666347 points for region 4
+Computed 11813/249462 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_035_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       80942
+
+xGMM 1  2  3  4  5
+Computed 20634/412021 points for region 1
+Computed 20536/904754 points for region 2
+Computed 9198/199186 points for region 3
+Computed 21569/687916 points for region 4
+Computed 9005/258467 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_036_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       64172
+
+xGMM 1  2  3  4  5
+Computed 7526/419547 points for region 1
+Computed 38128/942882 points for region 2
+Computed 3033/202219 points for region 3
+Computed 11846/699762 points for region 4
+Computed 3639/262106 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_037_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       63822
+
+xGMM 1  2  3  4  5
+Computed 11413/430960 points for region 1
+Computed 28169/971051 points for region 2
+Computed 4214/206433 points for region 3
+Computed 13217/712979 points for region 4
+Computed 6809/268915 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_038_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       82881
+
+xGMM 1  2  3  4  5
+Computed 20706/451666 points for region 1
+Computed 19081/990132 points for region 2
+Computed 10207/216640 points for region 3
+Computed 24760/737739 points for region 4
+Computed 8127/277042 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_039_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       67685
+
+xGMM 1  2  3  4  5
+Computed 15323/466989 points for region 1
+Computed 16727/1006859 points for region 2
+Computed 8862/225502 points for region 3
+Computed 19221/756960 points for region 4
+Computed 7552/284594 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_040_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       64172
+
+xGMM 1  2  3  4  5
+Computed 8926/475915 points for region 1
+Computed 31878/1038737 points for region 2
+Computed 2384/227886 points for region 3
+Computed 15534/772494 points for region 4
+Computed 5450/290044 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_041_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       52612
+
+xGMM 1  2  3  4  5
+Computed 12534/488449 points for region 1
+Computed 15851/1054588 points for region 2
+Computed 9130/237016 points for region 3
+Computed 10159/782653 points for region 4
+Computed 4938/294982 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_042_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       64172
+
+xGMM 1  2  3  4  5
+Computed 5321/493770 points for region 1
+Computed 33579/1088167 points for region 2
+Computed 3148/240164 points for region 3
+Computed 14600/797253 points for region 4
+Computed 7524/302506 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_043_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       78275
+
+xGMM 1  2  3  4  5
+Computed 15839/509609 points for region 1
+Computed 27170/1115337 points for region 2
+Computed 7267/247431 points for region 3
+Computed 20797/818050 points for region 4
+Computed 7202/309708 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_044_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       76748
+
+xGMM 1  2  3  4  5
+Computed 10057/519666 points for region 1
+Computed 36894/1152231 points for region 2
+Computed 5468/252899 points for region 3
+Computed 18867/836917 points for region 4
+Computed 5462/315170 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_045_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       62499
+
+xGMM 1  2  3  4  5
+Computed 8378/528044 points for region 1
+Computed 29469/1181700 points for region 2
+Computed 4998/257897 points for region 3
+Computed 13667/850584 points for region 4
+Computed 5987/321157 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_046_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       69215
+
+xGMM 1  2  3  4  5
+Computed 8501/536545 points for region 1
+Computed 26613/1208313 points for region 2
+Computed 4421/262318 points for region 3
+Computed 19637/870221 points for region 4
+Computed 10043/331200 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_047_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       80942
+
+xGMM 1  2  3  4  5
+Computed 16162/552707 points for region 1
+Computed 17885/1226198 points for region 2
+Computed 7438/269756 points for region 3
+Computed 32412/902633 points for region 4
+Computed 7045/338245 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_048_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       63822
+
+xGMM 1  2  3  4  5
+Computed 10833/563540 points for region 1
+Computed 27631/1253829 points for region 2
+Computed 5497/275253 points for region 3
+Computed 12895/915528 points for region 4
+Computed 6966/345211 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_049_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       82881
+
+xGMM 1  2  3  4  5
+Computed 11147/574687 points for region 1
+Computed 21952/1275781 points for region 2
+Computed 6075/281328 points for region 3
+Computed 38187/953715 points for region 4
+Computed 5520/350731 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_050_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       52612
+
+xGMM 1  2  3  4  5
+Computed 12350/587037 points for region 1
+Computed 9872/1285653 points for region 2
+Computed 11009/292337 points for region 3
+Computed 12307/966022 points for region 4
+Computed 7074/357805 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_051_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       66786
+
+xGMM 1  2  3  4  5
+Computed 11451/598488 points for region 1
+Computed 24380/1310033 points for region 2
+Computed 5283/297620 points for region 3
+Computed 15816/981838 points for region 4
+Computed 9856/367661 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_052_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       52612
+
+xGMM 1  2  3  4  5
+Computed 11961/610449 points for region 1
+Computed 12757/1322790 points for region 2
+Computed 8858/306478 points for region 3
+Computed 14947/996785 points for region 4
+Computed 4089/371750 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_053_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       67685
+
+xGMM 1  2  3  4  5
+Computed 20356/630805 points for region 1
+Computed 16405/1339195 points for region 2
+Computed 9148/315626 points for region 3
+Computed 15557/1012342 points for region 4
+Computed 6219/377969 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_054_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       69215
+
+xGMM 1  2  3  4  5
+Computed 11105/641910 points for region 1
+Computed 25768/1364963 points for region 2
+Computed 3558/319184 points for region 3
+Computed 22244/1034586 points for region 4
+Computed 6540/384509 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_055_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       78275
+
+xGMM 1  2  3  4  5
+Computed 10041/651951 points for region 1
+Computed 36305/1401268 points for region 2
+Computed 3865/323049 points for region 3
+Computed 24175/1058761 points for region 4
+Computed 3889/388398 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_056_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       63822
+
+xGMM 1  2  3  4  5
+Computed 9656/661607 points for region 1
+Computed 30462/1431730 points for region 2
+Computed 4055/327104 points for region 3
+Computed 11944/1070705 points for region 4
+Computed 7705/396103 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_057_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       66786
+
+xGMM 1  2  3  4  5
+Computed 11553/673160 points for region 1
+Computed 25564/1457294 points for region 2
+Computed 6962/334066 points for region 3
+Computed 13793/1084498 points for region 4
+Computed 8914/405017 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_058_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       52612
+
+xGMM 1  2  3  4  5
+Computed 12086/685246 points for region 1
+Computed 13885/1471179 points for region 2
+Computed 9923/343989 points for region 3
+Computed 12202/1096700 points for region 4
+Computed 4516/409533 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_059_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       78275
+
+xGMM 1  2  3  4  5
+Computed 13695/698941 points for region 1
+Computed 31036/1502215 points for region 2
+Computed 4771/348760 points for region 3
+Computed 24015/1120715 points for region 4
+Computed 4758/414291 points for region 5
+Computing the mean for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_060_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       76748
+
+xGMM 1  2  3  4  5
+Computed 9440/708381 points for region 1
+Computed 38140/1540355 points for region 2
+Computed 5425/354185 points for region 3
+Computed 15688/1136403 points for region 4
+Computed 8055/422346 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_001_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       69215
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 12248/12248 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 25616/25616 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 3889/3889 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 21189/21189 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 6273/6273 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_002_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       66786
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 12531/24779 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 23408/49024 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 6579/10468 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 13217/34406 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 11051/17324 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_003_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       63822
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 9013/33792 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 26879/75903 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 2576/13044 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 17874/52280 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 7480/24804 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_004_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       63822
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 10073/43865 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 26610/102513 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 3696/16740 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 16734/69014 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 6709/31513 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_005_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       67685
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 10677/54542 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 25666/128179 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 8315/25055 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 17125/86139 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 5902/37415 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_006_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       78275
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 16211/70753 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 22438/150617 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 6285/31340 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 26757/112896 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 6584/43999 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_007_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       66786
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 12781/83534 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 25468/176085 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 4900/36240 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 15474/128370 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 8163/52162 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_008_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       69215
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 9233/92767 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 24830/200915 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 4954/41194 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 23865/152235 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 6333/58495 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_009_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       80942
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 18795/111562 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 17255/218170 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 6147/47341 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 31237/183472 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 7508/66003 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_010_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       69215
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 11926/123488 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 27178/245348 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 4138/51479 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 20242/203714 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 5731/71734 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_011_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       64172
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 8725/132213 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 31721/277069 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 3232/54711 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 15269/218983 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 5225/76959 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_012_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       82881
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 13147/145360 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 19920/296989 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 7171/61882 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 33908/252891 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 8735/85694 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_013_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       62499
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 4714/150074 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 31654/328643 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 4611/66493 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 13077/265968 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 8443/94137 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_014_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       64172
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 6865/156939 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 36760/365403 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 1486/67979 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 15391/281359 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 3670/97807 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_015_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       76748
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 9696/166635 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 33109/398512 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 6077/74056 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 17613/298972 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 10253/108060 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_016_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       52612
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 14927/181562 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 11032/409544 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 10036/84092 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 12441/311413 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 4176/112236 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_017_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       66697
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 9690/191252 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 27390/436934 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 5849/89941 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 14534/325947 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 9234/121470 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_018_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       78275
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 10837/202089 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 23329/460263 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 6216/96157 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 31751/357698 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 6142/127612 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_019_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       66697
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 6163/208252 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 30423/490686 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 3478/99635 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 18047/375745 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 8586/136198 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_020_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       80942
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 21020/229272 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 21839/512525 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 4853/104488 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 27405/403150 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 5825/142023 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_021_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       62499
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 12361/241633 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 28660/541185 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 4175/108663 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 12080/415230 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 5223/147246 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_022_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       66697
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 11810/253443 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 24588/565773 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 6394/115057 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 14453/429683 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 9452/156698 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_023_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       66697
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 9962/263405 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 24674/590447 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 6912/121969 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 13057/442740 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 12092/168790 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_024_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       67685
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 11479/274884 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 22045/612492 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 8788/130757 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 19141/461881 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 6232/175022 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_025_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       82881
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 17280/292164 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 20224/632716 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 7975/138732 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 32429/494310 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 4973/179995 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_026_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       66786
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 11079/303243 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 23694/656410 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 5333/144065 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 16062/510372 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 10618/190613 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_027_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       62499
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 5423/308666 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 31820/688230 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 2117/146182 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 19343/529715 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 3796/194409 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_028_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       76748
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 9343/318009 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 42799/731029 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 4361/150543 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 12349/542064 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 7896/202305 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_029_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       62499
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 10021/328030 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 29974/761003 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 5174/155717 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 11484/553548 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 5846/208151 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_030_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       67685
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 14481/342511 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 20924/781927 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 9649/165366 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 18352/571900 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 4279/212430 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_031_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       76748
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 11202/353713 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 34427/816354 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 5603/170969 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 15189/587089 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 10327/222757 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_032_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       80942
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 15404/369117 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 19717/836071 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 7230/178199 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 30891/617980 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 7700/230457 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_033_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       82881
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 14204/383321 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 20541/856612 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 6219/184418 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 34725/652705 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 7192/237649 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_034_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       66697
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 8066/391387 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 27606/884218 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 5570/189988 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 13642/666347 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 11813/249462 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_035_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       80942
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 20634/412021 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 20536/904754 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 9198/199186 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 21569/687916 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 9005/258467 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_036_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       64172
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 7526/419547 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 38128/942882 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 3033/202219 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 11846/699762 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 3639/262106 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_037_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       63822
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 11413/430960 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 28169/971051 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 4214/206433 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 13217/712979 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 6809/268915 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_038_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       82881
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 20706/451666 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 19081/990132 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 10207/216640 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 24760/737739 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 8127/277042 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_039_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       67685
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 15323/466989 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 16727/1006859 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 8862/225502 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 19221/756960 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 7552/284594 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_040_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       64172
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 8926/475915 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 31878/1038737 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 2384/227886 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 15534/772494 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 5450/290044 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_041_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       52612
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 12534/488449 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 15851/1054588 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 9130/237016 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 10159/782653 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 4938/294982 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_042_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       64172
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 5321/493770 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 33579/1088167 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 3148/240164 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 14600/797253 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 7524/302506 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_043_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       78275
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 15839/509609 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 27170/1115337 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 7267/247431 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 20797/818050 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 7202/309708 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_044_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       76748
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 10057/519666 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 36894/1152231 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 5468/252899 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 18867/836917 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 5462/315170 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_045_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       62499
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 8378/528044 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 29469/1181700 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 4998/257897 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 13667/850584 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 5987/321157 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_046_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       69215
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 8501/536545 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 26613/1208313 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 4421/262318 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 19637/870221 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 10043/331200 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_047_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       80942
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 16162/552707 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 17885/1226198 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 7438/269756 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 32412/902633 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 7045/338245 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_048_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       63822
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 10833/563540 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 27631/1253829 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 5497/275253 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 12895/915528 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 6966/345211 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_049_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       82881
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 11147/574687 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 21952/1275781 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 6075/281328 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 38187/953715 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 5520/350731 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_050_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       52612
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 12350/587037 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 9872/1285653 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 11009/292337 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 12307/966022 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 7074/357805 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_051_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       66786
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 11451/598488 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 24380/1310033 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 5283/297620 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 15816/981838 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 9856/367661 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_052_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       52612
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 11961/610449 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 12757/1322790 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 8858/306478 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 14947/996785 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 4089/371750 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_053_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       67685
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 20356/630805 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 16405/1339195 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 9148/315626 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 15557/1012342 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 6219/377969 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_054_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       69215
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 11105/641910 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 25768/1364963 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 3558/319184 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 22244/1034586 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 6540/384509 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_055_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       78275
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 10041/651951 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 36305/1401268 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 3865/323049 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 24175/1058761 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 3889/388398 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_056_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       63822
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 9656/661607 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 30462/1431730 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 4055/327104 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 11944/1070705 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 7705/396103 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_057_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       66786
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 11553/673160 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 25564/1457294 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 6962/334066 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 13793/1084498 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 8914/405017 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_058_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       52612
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 12086/685246 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 13885/1471179 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 9923/343989 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 12202/1096700 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 4516/409533 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_059_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       78275
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 13695/698941 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 31036/1502215 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 4771/348760 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 24015/1120715 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 4758/414291 points for region 5
+Computing the variance for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_060_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       76748
+
+xGMM 1  2  3  4  5
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 9440/708381 points for region 1
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 38140/1540355 points for region 2
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 5425/354185 points for region 3
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 15688/1136403 points for region 4
+Var that normalized by level:W;
+ith column:1;
+Number of Levels:43;
+Var that normalized by level:T;
+ith column:1;
+Number of Levels:42;
+Var that normalized by level:Qvapor;
+ith column:1;
+Number of Levels:42;
+Computed 8055/422346 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_001_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       69215
+
+xGMM 1  2  3  4  5
+Computed 12248/12248 points for region 1
+Computed 25616/25616 points for region 2
+Computed 3889/3889 points for region 3
+Computed 21189/21189 points for region 4
+Computed 6273/6273 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_002_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       66786
+
+xGMM 1  2  3  4  5
+Computed 12531/24779 points for region 1
+Computed 23408/49024 points for region 2
+Computed 6579/10468 points for region 3
+Computed 13217/34406 points for region 4
+Computed 11051/17324 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_003_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       63822
+
+xGMM 1  2  3  4  5
+Computed 9013/33792 points for region 1
+Computed 26879/75903 points for region 2
+Computed 2576/13044 points for region 3
+Computed 17874/52280 points for region 4
+Computed 7480/24804 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_004_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       63822
+
+xGMM 1  2  3  4  5
+Computed 10073/43865 points for region 1
+Computed 26610/102513 points for region 2
+Computed 3696/16740 points for region 3
+Computed 16734/69014 points for region 4
+Computed 6709/31513 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_005_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       67685
+
+xGMM 1  2  3  4  5
+Computed 10677/54542 points for region 1
+Computed 25666/128179 points for region 2
+Computed 8315/25055 points for region 3
+Computed 17125/86139 points for region 4
+Computed 5902/37415 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_006_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       78275
+
+xGMM 1  2  3  4  5
+Computed 16211/70753 points for region 1
+Computed 22438/150617 points for region 2
+Computed 6285/31340 points for region 3
+Computed 26757/112896 points for region 4
+Computed 6584/43999 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_007_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       66786
+
+xGMM 1  2  3  4  5
+Computed 12781/83534 points for region 1
+Computed 25468/176085 points for region 2
+Computed 4900/36240 points for region 3
+Computed 15474/128370 points for region 4
+Computed 8163/52162 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_008_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       69215
+
+xGMM 1  2  3  4  5
+Computed 9233/92767 points for region 1
+Computed 24830/200915 points for region 2
+Computed 4954/41194 points for region 3
+Computed 23865/152235 points for region 4
+Computed 6333/58495 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_009_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       80942
+
+xGMM 1  2  3  4  5
+Computed 18795/111562 points for region 1
+Computed 17255/218170 points for region 2
+Computed 6147/47341 points for region 3
+Computed 31237/183472 points for region 4
+Computed 7508/66003 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_010_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       69215
+
+xGMM 1  2  3  4  5
+Computed 11926/123488 points for region 1
+Computed 27178/245348 points for region 2
+Computed 4138/51479 points for region 3
+Computed 20242/203714 points for region 4
+Computed 5731/71734 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_011_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       64172
+
+xGMM 1  2  3  4  5
+Computed 8725/132213 points for region 1
+Computed 31721/277069 points for region 2
+Computed 3232/54711 points for region 3
+Computed 15269/218983 points for region 4
+Computed 5225/76959 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_012_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       82881
+
+xGMM 1  2  3  4  5
+Computed 13147/145360 points for region 1
+Computed 19920/296989 points for region 2
+Computed 7171/61882 points for region 3
+Computed 33908/252891 points for region 4
+Computed 8735/85694 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_013_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       62499
+
+xGMM 1  2  3  4  5
+Computed 4714/150074 points for region 1
+Computed 31654/328643 points for region 2
+Computed 4611/66493 points for region 3
+Computed 13077/265968 points for region 4
+Computed 8443/94137 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_014_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       64172
+
+xGMM 1  2  3  4  5
+Computed 6865/156939 points for region 1
+Computed 36760/365403 points for region 2
+Computed 1486/67979 points for region 3
+Computed 15391/281359 points for region 4
+Computed 3670/97807 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_015_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       76748
+
+xGMM 1  2  3  4  5
+Computed 9696/166635 points for region 1
+Computed 33109/398512 points for region 2
+Computed 6077/74056 points for region 3
+Computed 17613/298972 points for region 4
+Computed 10253/108060 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_016_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       52612
+
+xGMM 1  2  3  4  5
+Computed 14927/181562 points for region 1
+Computed 11032/409544 points for region 2
+Computed 10036/84092 points for region 3
+Computed 12441/311413 points for region 4
+Computed 4176/112236 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_017_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       66697
+
+xGMM 1  2  3  4  5
+Computed 9690/191252 points for region 1
+Computed 27390/436934 points for region 2
+Computed 5849/89941 points for region 3
+Computed 14534/325947 points for region 4
+Computed 9234/121470 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_018_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       78275
+
+xGMM 1  2  3  4  5
+Computed 10837/202089 points for region 1
+Computed 23329/460263 points for region 2
+Computed 6216/96157 points for region 3
+Computed 31751/357698 points for region 4
+Computed 6142/127612 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_019_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       66697
+
+xGMM 1  2  3  4  5
+Computed 6163/208252 points for region 1
+Computed 30423/490686 points for region 2
+Computed 3478/99635 points for region 3
+Computed 18047/375745 points for region 4
+Computed 8586/136198 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_020_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       80942
+
+xGMM 1  2  3  4  5
+Computed 21020/229272 points for region 1
+Computed 21839/512525 points for region 2
+Computed 4853/104488 points for region 3
+Computed 27405/403150 points for region 4
+Computed 5825/142023 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_021_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       62499
+
+xGMM 1  2  3  4  5
+Computed 12361/241633 points for region 1
+Computed 28660/541185 points for region 2
+Computed 4175/108663 points for region 3
+Computed 12080/415230 points for region 4
+Computed 5223/147246 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_022_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       66697
+
+xGMM 1  2  3  4  5
+Computed 11810/253443 points for region 1
+Computed 24588/565773 points for region 2
+Computed 6394/115057 points for region 3
+Computed 14453/429683 points for region 4
+Computed 9452/156698 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_023_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       66697
+
+xGMM 1  2  3  4  5
+Computed 9962/263405 points for region 1
+Computed 24674/590447 points for region 2
+Computed 6912/121969 points for region 3
+Computed 13057/442740 points for region 4
+Computed 12092/168790 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_024_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       67685
+
+xGMM 1  2  3  4  5
+Computed 11479/274884 points for region 1
+Computed 22045/612492 points for region 2
+Computed 8788/130757 points for region 3
+Computed 19141/461881 points for region 4
+Computed 6232/175022 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_025_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       82881
+
+xGMM 1  2  3  4  5
+Computed 17280/292164 points for region 1
+Computed 20224/632716 points for region 2
+Computed 7975/138732 points for region 3
+Computed 32429/494310 points for region 4
+Computed 4973/179995 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_026_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       66786
+
+xGMM 1  2  3  4  5
+Computed 11079/303243 points for region 1
+Computed 23694/656410 points for region 2
+Computed 5333/144065 points for region 3
+Computed 16062/510372 points for region 4
+Computed 10618/190613 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_027_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       62499
+
+xGMM 1  2  3  4  5
+Computed 5423/308666 points for region 1
+Computed 31820/688230 points for region 2
+Computed 2117/146182 points for region 3
+Computed 19343/529715 points for region 4
+Computed 3796/194409 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_028_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       76748
+
+xGMM 1  2  3  4  5
+Computed 9343/318009 points for region 1
+Computed 42799/731029 points for region 2
+Computed 4361/150543 points for region 3
+Computed 12349/542064 points for region 4
+Computed 7896/202305 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_029_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       62499
+
+xGMM 1  2  3  4  5
+Computed 10021/328030 points for region 1
+Computed 29974/761003 points for region 2
+Computed 5174/155717 points for region 3
+Computed 11484/553548 points for region 4
+Computed 5846/208151 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_030_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       67685
+
+xGMM 1  2  3  4  5
+Computed 14481/342511 points for region 1
+Computed 20924/781927 points for region 2
+Computed 9649/165366 points for region 3
+Computed 18352/571900 points for region 4
+Computed 4279/212430 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_031_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       76748
+
+xGMM 1  2  3  4  5
+Computed 11202/353713 points for region 1
+Computed 34427/816354 points for region 2
+Computed 5603/170969 points for region 3
+Computed 15189/587089 points for region 4
+Computed 10327/222757 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_032_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       80942
+
+xGMM 1  2  3  4  5
+Computed 15404/369117 points for region 1
+Computed 19717/836071 points for region 2
+Computed 7230/178199 points for region 3
+Computed 30891/617980 points for region 4
+Computed 7700/230457 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_033_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       82881
+
+xGMM 1  2  3  4  5
+Computed 14204/383321 points for region 1
+Computed 20541/856612 points for region 2
+Computed 6219/184418 points for region 3
+Computed 34725/652705 points for region 4
+Computed 7192/237649 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_034_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       66697
+
+xGMM 1  2  3  4  5
+Computed 8066/391387 points for region 1
+Computed 27606/884218 points for region 2
+Computed 5570/189988 points for region 3
+Computed 13642/666347 points for region 4
+Computed 11813/249462 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_035_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       80942
+
+xGMM 1  2  3  4  5
+Computed 20634/412021 points for region 1
+Computed 20536/904754 points for region 2
+Computed 9198/199186 points for region 3
+Computed 21569/687916 points for region 4
+Computed 9005/258467 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_036_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       64172
+
+xGMM 1  2  3  4  5
+Computed 7526/419547 points for region 1
+Computed 38128/942882 points for region 2
+Computed 3033/202219 points for region 3
+Computed 11846/699762 points for region 4
+Computed 3639/262106 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_037_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       63822
+
+xGMM 1  2  3  4  5
+Computed 11413/430960 points for region 1
+Computed 28169/971051 points for region 2
+Computed 4214/206433 points for region 3
+Computed 13217/712979 points for region 4
+Computed 6809/268915 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_038_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       82881
+
+xGMM 1  2  3  4  5
+Computed 20706/451666 points for region 1
+Computed 19081/990132 points for region 2
+Computed 10207/216640 points for region 3
+Computed 24760/737739 points for region 4
+Computed 8127/277042 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_039_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       67685
+
+xGMM 1  2  3  4  5
+Computed 15323/466989 points for region 1
+Computed 16727/1006859 points for region 2
+Computed 8862/225502 points for region 3
+Computed 19221/756960 points for region 4
+Computed 7552/284594 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_040_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       64172
+
+xGMM 1  2  3  4  5
+Computed 8926/475915 points for region 1
+Computed 31878/1038737 points for region 2
+Computed 2384/227886 points for region 3
+Computed 15534/772494 points for region 4
+Computed 5450/290044 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_041_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       52612
+
+xGMM 1  2  3  4  5
+Computed 12534/488449 points for region 1
+Computed 15851/1054588 points for region 2
+Computed 9130/237016 points for region 3
+Computed 10159/782653 points for region 4
+Computed 4938/294982 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_042_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       64172
+
+xGMM 1  2  3  4  5
+Computed 5321/493770 points for region 1
+Computed 33579/1088167 points for region 2
+Computed 3148/240164 points for region 3
+Computed 14600/797253 points for region 4
+Computed 7524/302506 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_043_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       78275
+
+xGMM 1  2  3  4  5
+Computed 15839/509609 points for region 1
+Computed 27170/1115337 points for region 2
+Computed 7267/247431 points for region 3
+Computed 20797/818050 points for region 4
+Computed 7202/309708 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_044_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       76748
+
+xGMM 1  2  3  4  5
+Computed 10057/519666 points for region 1
+Computed 36894/1152231 points for region 2
+Computed 5468/252899 points for region 3
+Computed 18867/836917 points for region 4
+Computed 5462/315170 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_045_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       62499
+
+xGMM 1  2  3  4  5
+Computed 8378/528044 points for region 1
+Computed 29469/1181700 points for region 2
+Computed 4998/257897 points for region 3
+Computed 13667/850584 points for region 4
+Computed 5987/321157 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_046_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       69215
+
+xGMM 1  2  3  4  5
+Computed 8501/536545 points for region 1
+Computed 26613/1208313 points for region 2
+Computed 4421/262318 points for region 3
+Computed 19637/870221 points for region 4
+Computed 10043/331200 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_047_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       80942
+
+xGMM 1  2  3  4  5
+Computed 16162/552707 points for region 1
+Computed 17885/1226198 points for region 2
+Computed 7438/269756 points for region 3
+Computed 32412/902633 points for region 4
+Computed 7045/338245 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_048_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       63822
+
+xGMM 1  2  3  4  5
+Computed 10833/563540 points for region 1
+Computed 27631/1253829 points for region 2
+Computed 5497/275253 points for region 3
+Computed 12895/915528 points for region 4
+Computed 6966/345211 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_049_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       82881
+
+xGMM 1  2  3  4  5
+Computed 11147/574687 points for region 1
+Computed 21952/1275781 points for region 2
+Computed 6075/281328 points for region 3
+Computed 38187/953715 points for region 4
+Computed 5520/350731 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_050_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       52612
+
+xGMM 1  2  3  4  5
+Computed 12350/587037 points for region 1
+Computed 9872/1285653 points for region 2
+Computed 11009/292337 points for region 3
+Computed 12307/966022 points for region 4
+Computed 7074/357805 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_051_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       66786
+
+xGMM 1  2  3  4  5
+Computed 11451/598488 points for region 1
+Computed 24380/1310033 points for region 2
+Computed 5283/297620 points for region 3
+Computed 15816/981838 points for region 4
+Computed 9856/367661 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_052_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       52612
+
+xGMM 1  2  3  4  5
+Computed 11961/610449 points for region 1
+Computed 12757/1322790 points for region 2
+Computed 8858/306478 points for region 3
+Computed 14947/996785 points for region 4
+Computed 4089/371750 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_053_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       67685
+
+xGMM 1  2  3  4  5
+Computed 20356/630805 points for region 1
+Computed 16405/1339195 points for region 2
+Computed 9148/315626 points for region 3
+Computed 15557/1012342 points for region 4
+Computed 6219/377969 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_054_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       69215
+
+xGMM 1  2  3  4  5
+Computed 11105/641910 points for region 1
+Computed 25768/1364963 points for region 2
+Computed 3558/319184 points for region 3
+Computed 22244/1034586 points for region 4
+Computed 6540/384509 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_055_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       78275
+
+xGMM 1  2  3  4  5
+Computed 10041/651951 points for region 1
+Computed 36305/1401268 points for region 2
+Computed 3865/323049 points for region 3
+Computed 24175/1058761 points for region 4
+Computed 3889/388398 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_056_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       63822
+
+xGMM 1  2  3  4  5
+Computed 9656/661607 points for region 1
+Computed 30462/1431730 points for region 2
+Computed 4055/327104 points for region 3
+Computed 11944/1070705 points for region 4
+Computed 7705/396103 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_057_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       66786
+
+xGMM 1  2  3  4  5
+Computed 11553/673160 points for region 1
+Computed 25564/1457294 points for region 2
+Computed 6962/334066 points for region 3
+Computed 13793/1084498 points for region 4
+Computed 8914/405017 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_058_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       52612
+
+xGMM 1  2  3  4  5
+Computed 12086/685246 points for region 1
+Computed 13885/1471179 points for region 2
+Computed 9923/343989 points for region 3
+Computed 12202/1096700 points for region 4
+Computed 4516/409533 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_059_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       78275
+
+xGMM 1  2  3  4  5
+Computed 13695/698941 points for region 1
+Computed 31036/1502215 points for region 2
+Computed 4771/348760 points for region 3
+Computed 24015/1120715 points for region 4
+Computed 4758/414291 points for region 5
+Computing the covariances for file /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/simulated_BT/MW_THO/gpm_gmi/nodc/wrf_enkf_input_d03_060_gpm_gmi.nc
+Read surrounding 0 model columns into one
+
+ans =
+
+          13       76748
+
+xGMM 1  2  3  4  5
+Computed 9440/708381 points for region 1
+Computed 38140/1540355 points for region 2
+Computed 5425/354185 points for region 3
+Computed 15688/1136403 points for region 4
+Computed 8055/422346 points for region 5
+>> >> Saved model/obs mean for region 1 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM01_mean_model.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM01_mean_obs.txt
+Saved model/obs stddevs for region 1 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM01_stddev_model.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM01_stddev_obs.txt
+Saved model/obs covs for region 1 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM01_cov_model.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM01_cov_obs.txt and the cross-covariance to /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM01_ccov_model_obs.txt
+Saved model/obs mean for region 2 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM02_mean_model.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM02_mean_obs.txt
+Saved model/obs stddevs for region 2 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM02_stddev_model.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM02_stddev_obs.txt
+Saved model/obs covs for region 2 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM02_cov_model.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM02_cov_obs.txt and the cross-covariance to /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM02_ccov_model_obs.txt
+Saved model/obs mean for region 3 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM03_mean_model.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM03_mean_obs.txt
+Saved model/obs stddevs for region 3 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM03_stddev_model.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM03_stddev_obs.txt
+Saved model/obs covs for region 3 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM03_cov_model.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM03_cov_obs.txt and the cross-covariance to /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM03_ccov_model_obs.txt
+Saved model/obs mean for region 4 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM04_mean_model.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM04_mean_obs.txt
+Saved model/obs stddevs for region 4 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM04_stddev_model.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM04_stddev_obs.txt
+Saved model/obs covs for region 4 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM04_cov_model.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM04_cov_obs.txt and the cross-covariance to /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM04_ccov_model_obs.txt
+Saved model/obs mean for region 5 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM05_mean_model.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM05_mean_obs.txt
+Saved model/obs stddevs for region 5 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM05_stddev_model.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM05_stddev_obs.txt
+Saved model/obs covs for region 5 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM05_cov_model.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM05_cov_obs.txt and the cross-covariance to /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_GMM05_ccov_model_obs.txt
+>> >> >> >> >> >> >> [Warning: MATLAB has disabled some advanced graphics rendering features by
+switching to software OpenGL. For more information, click <a
+href="matlab:opengl('problems')">here</a>.] 
+Keeping 60 X pcs.
+Keeping 6 Y pcs.
+Saved model/obs ccvs for region 1 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM01_ccv01_model.txt, /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM01_ccv01_obs.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM01_ccv01_r.txt
+Saved model/obs ccvs for region 1 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM01_ccv02_model.txt, /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM01_ccv02_obs.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM01_ccv02_r.txt
+Saved model/obs ccvs for region 1 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM01_ccv03_model.txt, /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM01_ccv03_obs.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM01_ccv03_r.txt
+Saved model/obs ccvs for region 1 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM01_ccv04_model.txt, /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM01_ccv04_obs.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM01_ccv04_r.txt
+Saved model/obs ccvs for region 1 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM01_ccv05_model.txt, /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM01_ccv05_obs.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM01_ccv05_r.txt
+Saved model/obs ccvs for region 1 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM01_ccv06_model.txt, /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM01_ccv06_obs.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM01_ccv06_r.txt
+Keeping 60 X pcs.
+Keeping 6 Y pcs.
+Saved model/obs ccvs for region 2 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM02_ccv01_model.txt, /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM02_ccv01_obs.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM02_ccv01_r.txt
+Saved model/obs ccvs for region 2 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM02_ccv02_model.txt, /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM02_ccv02_obs.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM02_ccv02_r.txt
+Saved model/obs ccvs for region 2 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM02_ccv03_model.txt, /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM02_ccv03_obs.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM02_ccv03_r.txt
+Saved model/obs ccvs for region 2 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM02_ccv04_model.txt, /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM02_ccv04_obs.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM02_ccv04_r.txt
+Saved model/obs ccvs for region 2 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM02_ccv05_model.txt, /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM02_ccv05_obs.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM02_ccv05_r.txt
+Saved model/obs ccvs for region 2 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM02_ccv06_model.txt, /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM02_ccv06_obs.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM02_ccv06_r.txt
+Keeping 60 X pcs.
+Keeping 6 Y pcs.
+Saved model/obs ccvs for region 3 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM03_ccv01_model.txt, /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM03_ccv01_obs.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM03_ccv01_r.txt
+Saved model/obs ccvs for region 3 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM03_ccv02_model.txt, /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM03_ccv02_obs.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM03_ccv02_r.txt
+Saved model/obs ccvs for region 3 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM03_ccv03_model.txt, /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM03_ccv03_obs.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM03_ccv03_r.txt
+Saved model/obs ccvs for region 3 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM03_ccv04_model.txt, /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM03_ccv04_obs.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM03_ccv04_r.txt
+Saved model/obs ccvs for region 3 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM03_ccv05_model.txt, /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM03_ccv05_obs.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM03_ccv05_r.txt
+Saved model/obs ccvs for region 3 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM03_ccv06_model.txt, /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM03_ccv06_obs.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM03_ccv06_r.txt
+Keeping 60 X pcs.
+Keeping 6 Y pcs.
+Saved model/obs ccvs for region 4 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM04_ccv01_model.txt, /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM04_ccv01_obs.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM04_ccv01_r.txt
+Saved model/obs ccvs for region 4 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM04_ccv02_model.txt, /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM04_ccv02_obs.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM04_ccv02_r.txt
+Saved model/obs ccvs for region 4 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM04_ccv03_model.txt, /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM04_ccv03_obs.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM04_ccv03_r.txt
+Saved model/obs ccvs for region 4 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM04_ccv04_model.txt, /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM04_ccv04_obs.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM04_ccv04_r.txt
+Saved model/obs ccvs for region 4 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM04_ccv05_model.txt, /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM04_ccv05_obs.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM04_ccv05_r.txt
+Saved model/obs ccvs for region 4 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM04_ccv06_model.txt, /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM04_ccv06_obs.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM04_ccv06_r.txt
+Keeping 60 X pcs.
+Keeping 6 Y pcs.
+Saved model/obs ccvs for region 5 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM05_ccv01_model.txt, /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM05_ccv01_obs.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM05_ccv01_r.txt
+Saved model/obs ccvs for region 5 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM05_ccv02_model.txt, /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM05_ccv02_obs.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM05_ccv02_r.txt
+Saved model/obs ccvs for region 5 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM05_ccv03_model.txt, /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM05_ccv03_obs.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM05_ccv03_r.txt
+Saved model/obs ccvs for region 5 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM05_ccv04_model.txt, /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM05_ccv04_obs.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM05_ccv04_r.txt
+Saved model/obs ccvs for region 5 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM05_ccv05_model.txt, /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM05_ccv05_obs.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM05_ccv05_r.txt
+Saved model/obs ccvs for region 5 to files /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM05_ccv06_model.txt, /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM05_ccv06_obs.txt and /work2/06191/tg854905/stampede2/AllData/Pro1_CCVoperator/Harvey/DATABASE3/Results/MW_THO/gpm_gmi_nodc/60Xpc_5xGMM_60Xpc6Ypc/gpm_gmi_xGMM05_ccv06_r.txt
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 
